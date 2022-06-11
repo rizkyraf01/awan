@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="how_to_use">How to use:</string>
+    <string name="no_notification">no notification</string>
+
+    <string-array name="first_look">
+        <item>First Look!</item>
+        <item>Capture Now!</item>
+        <item>Lets Go!</item>
+    </string-array>
+
+    <string-array name="fast_caption">
+        <item>This app can help you learning the cloud science</item>
+        <item>Access item through the sky, let\'s see the cloud</item>
+        <item>Check on the result if it will be rain or bright</item>
+    </string-array>
+
+    <string-array name="detail_look_here">
+        <item>detail text here</item>
+        <item>detail text here</item>
+        <item>detail text here\n\n\n\n\n\n\n</item>
+    </string-array>
+
+    <integer-array name="data_image">
+        <item>@drawable/rain</item>
+        <item>@drawable/rain</item>
+        <item>@drawable/rain</item>
+    </integer-array>
+
+</resources>
